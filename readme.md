@@ -14,4 +14,4 @@ As I continue my journey in Full Stack development, I am always on the lookout f
  - Jugar juesgos de mesa
 
 
-## Este es un proyecto colaborativo :D
+## Este es un proyecto colaborativo :D.
